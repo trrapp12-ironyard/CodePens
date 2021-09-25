@@ -2,7 +2,7 @@
 
 ---
 
-###NOT EVERY RESUME BULLET POINT IS A FULL APP
+### NOT EVERY RESUME BULLET POINT IS A FULL APP
 
 <p>There are a lot of good problems I have solved whose fruit wasn't a fully fledged, fully functional app.  In fact, most of my use cases as a data analyst require putting in small, succint, but smart functions which can get in and get out before anyone knows we were there.  In that spirit here are a few code pens demonstrating quick, powerful solutions that weren't necessarily full-fledged apps</p>
 
