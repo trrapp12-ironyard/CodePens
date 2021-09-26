@@ -19,7 +19,6 @@
 
 ### "How to Find the src URL for a Photo"
 
----
 
 <p class="codepen" data-height="500" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="powOxgw" data-user="trevor-rapp" style="height: 500px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/trevor-rapp/pen/powOxgw">
@@ -27,8 +26,6 @@
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-
----
 
 ### CodePen context:
 
@@ -39,10 +36,8 @@ The specific question was:
 > I'm developing a Chrome extension, and I'm adding an onmouseover handler to each of the images on a page. When the user mouses over an image, it's URL should be stored in a >variable. I know I can easily get the value of the src attribute of the image, but I want the full URL. The src attribute stores the path of the image on the server. For >example, when you right click an image in Google Chrome, you get the "Copy Image URL" option, which copies the image's URL to the clipboard.
 
 >Is there any way to achieve this? Thanks.
----
 
 ### Project published at: 
-
 
 [Find the Source URL of a Photo](https://codepen.io/trevor-rapp/pen/powOxgw)
 
