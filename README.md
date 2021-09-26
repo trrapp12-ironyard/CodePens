@@ -34,7 +34,7 @@ This CodePen was made to answer a StackOverflow question -- [How to get URL of a
 The specific question was: 
 
 > I'm developing a Chrome extension, and I'm adding an onmouseover handler to each of the images on a page. When the user mouses over an image, it's URL should be stored in a >variable. I know I can easily get the value of the src attribute of the image, but I want the full URL. The src attribute stores the path of the image on the server. For >example, when you right click an image in Google Chrome, you get the "Copy Image URL" option, which copies the image's URL to the clipboard.
-
+>
 >Is there any way to achieve this? Thanks.
 
 ### Project published at: 
