@@ -42,15 +42,41 @@ The specific question was:
 
 <br/>
 
-<iframe height="500" style="width: 100%;" scrolling="no" title="" src="https://codepen.io/trevor-rapp/embed/XWgLKWW?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+### Project published at: 
+
+[Find the Source URL of a Photo](https://codepen.io/trevor-rapp/pen/powOxgw)
+
+### "Various Regex problems I've had to solve"
+
+<iframe height="500" style="width: 1200px;" scrolling="no" title="" src="https://codepen.io/trevor-rapp/embed/XWgLKWW?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/trevor-rapp/pen/XWgLKWW">
   </a> by Trevor Rapp (<a href="https://codepen.io/trevor-rapp">@trevor-rapp</a>)
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
 
-### Project published at: 
+<br/>
+<br/>
 
-[Find the Source URL of a Photo](https://codepen.io/trevor-rapp/pen/powOxgw)
+### CodePen context:
+
+While working as a data-analyst I have had to do a lot of retrieving information from urls.  These are various problems I have had to solve based on my experience.
+
+Country Code: often times different countries have entirely different markets, different web-pages, different promotions, and even different laws that regulate them.  Capturing a change in the country code, often provided in the url, can be used as an event to trigger off of. 
+
+Camel Case: when transporting information from one program to another, especially when dealing with legacy code on an enterprise scale, you can run into different naming conventions (i.e. Sentence Case vs. camelCase vs snake_case).  My particular issue dealt with changing camel cased variables into sentence case.  But to do that I had to be able to tell the computer which character to splice on.  Enter this regex.
+
+File Name: this one was an interesting issue.  I was dealing with code from a third party vendor that I didn't have the option to change. Instead of them creating a button semantically with a `<button></button>` tag they had nested an `<img>` tag (which visibly served as the button...including the words on it...I know :( :( :( ).  The image tag was placed inside a `<div>` tag which was inside an `<a>` tag.  A horrible mess.  Not to mention how was I supposed to select text that actually existed in an image?  Or even better question, how would a blind individual using a screen reader know what the button said?  Ugghhh...  So anyway, to get the information I was able to see the src file had the name of the button as the very last file name in it's file path.  So I used this to select that name so I could pass that as a variable to GTM when some clicked on it.
+
+The specific question was: 
+
+> I'm developing a Chrome extension, and I'm adding an onmouseover handler to each of the images on a page. When the user mouses over an image, it's URL should be stored in a >variable. I know I can easily get the value of the src attribute of the image, but I want the full URL. The src attribute stores the path of the image on the server. For >example, when you right click an image in Google Chrome, you get the "Copy Image URL" option, which copies the image's URL to the clipboard.
+>
+>Is there any way to achieve this? Thanks.
+
+<br/>
+
+
+
 
 ### More Information:
 ---
