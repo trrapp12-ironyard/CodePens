@@ -27,7 +27,7 @@
 ### "How to Find the src URL for a Photo"
 
 
-<iframe height="700" style="width: 1100px;" scrolling="no" title="How to find the src URL for a photo" src="https://codepen.io/trevor-rapp/embed/powOxgw?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+<iframe height="700" style="width: 1200px;" scrolling="no" title="How to find the src URL for a photo" src="https://codepen.io/trevor-rapp/embed/powOxgw?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/trevor-rapp/pen/powOxgw">
   How to find the src URL for a photo</a> by Trevor Rapp (<a href="https://codepen.io/trevor-rapp">@trevor-rapp</a>)
   on <a href="https://codepen.io">CodePen</a>.
@@ -54,7 +54,7 @@ The specific question was:
 
 ### "Various Regex problems I've had to solve"
 
-<iframe height="700" style="width: 1100px;" scrolling="no" title="" src="https://codepen.io/trevor-rapp/embed/XWgLKWW?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+<iframe height="700" style="width: 1200px;" scrolling="no" title="" src="https://codepen.io/trevor-rapp/embed/XWgLKWW?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/trevor-rapp/pen/XWgLKWW">
   </a> by Trevor Rapp (<a href="https://codepen.io/trevor-rapp">@trevor-rapp</a>)
   on <a href="https://codepen.io">CodePen</a>.
