@@ -1,7 +1,9 @@
 # CodePens
 
 <br>
-[![View Project](https://user-images.githubusercontent.com/11747875/141673261-97afe2c7-735b-4740-b976-3719ba9a01db.png)](http://trrapp12.github.io/avengers_agents_of_shield_directory/)  
+
+[![View Project](https://user-images.githubusercontent.com/11747875/141690275-b6708604-1d7b-47b9-94ae-607837bf400c.png)](http://trrapp12.github.io/avengers_agents_of_shield_directory/)  
+
 <br>
 
 ---
