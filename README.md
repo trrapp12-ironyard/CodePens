@@ -96,8 +96,6 @@ Super basic landing page I completed for Responsive Web Design Certificate requi
 
 ### Fillable Form:
 
-Super basic form page I completed for Responsive Web Design Certificate requirements on Free Code Camp.
-
 <br/>
 
 <iframe height="300" style="width: 100%;" scrolling="no" title="Rapp - Responsive Web Design - FreeCodeCamp fillable form" src="https://codepen.io/trevor-rapp/embed/qBXzLQd?default-tab=html%2Cresult&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
