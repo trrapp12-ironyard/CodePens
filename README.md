@@ -79,7 +79,11 @@ The specific question was:
 >
 >Is there any way to achieve this? Thanks.
 
-<br/>
+<br>
+<br>
+
+---
+
 ### "Tribute Page"
 
 <br/>
@@ -93,6 +97,10 @@ The specific question was:
 ##### CodePen context:
 
 Super basic landing page I completed for Responsive Web Design Certificate requirements on Free Code Camp.
+<br>
+<br>
+
+---
 
 ### Fillable Form:
 
@@ -107,6 +115,11 @@ Super basic landing page I completed for Responsive Web Design Certificate requi
 ##### CodePen context:
 
 Basic fillable form showing semantic markup.
+
+<br>
+<br>
+
+---
 
 ### Card Counting Function:
 
