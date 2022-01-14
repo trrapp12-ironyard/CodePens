@@ -80,10 +80,7 @@ The specific question was:
 >Is there any way to achieve this? Thanks.
 
 <br/>
-
-##### CodePen context:
-
-Super basic landing page I completed for Responsive Web Design Certificate requirements on Free Code Camp.
+### "Tribute Page"
 
 <br/>
 
@@ -94,6 +91,10 @@ Super basic landing page I completed for Responsive Web Design Certificate requi
 </iframe>
 
 ##### CodePen context:
+
+Super basic landing page I completed for Responsive Web Design Certificate requirements on Free Code Camp.
+
+### Fillable Form:
 
 Super basic form page I completed for Responsive Web Design Certificate requirements on Free Code Camp.
 
@@ -107,7 +108,9 @@ Super basic form page I completed for Responsive Web Design Certificate requirem
 
 ##### CodePen context:
 
-Super Basic Card Counting App to practice switch statements in JavaScript.
+Basic fillable form showing semantic markup.
+
+### Card Counting Function:
 
 <br/>
 
@@ -117,6 +120,9 @@ Super Basic Card Counting App to practice switch statements in JavaScript.
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
 
+##### CodePen context:
+
+Super Basic Card Counting App to practice switch statements in JavaScript.
 <br>
 <br>
 
