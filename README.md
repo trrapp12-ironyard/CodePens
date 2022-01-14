@@ -36,7 +36,7 @@
 <br/>
 <br/>
 
-### CodePen context:
+##### CodePen context:
 
 This CodePen was made to answer a StackOverflow question -- [How to get URL of an image in JavaScript](https://stackoverflow.com/questions/32828681/how-to-get-url-of-an-image-in-javascript).  
 
@@ -46,11 +46,11 @@ The specific question was:
 >
 >Is there any way to achieve this? Thanks.
 
-<br/>
+<br>
+<br>
 
-### Project published at: 
+---
 
-[Find the Source URL of a Photo](https://codepen.io/trevor-rapp/pen/powOxgw)
 
 ### "Various Regex problems I've had to solve"
 
@@ -63,7 +63,7 @@ The specific question was:
 <br/>
 <br/>
 
-### CodePen context:
+##### CodePen context:
 
 While working as a data-analyst I have had to do a lot of retrieving information from urls.  These are various problems I have had to solve based on my experience.
 
@@ -81,7 +81,7 @@ The specific question was:
 
 <br/>
 
-### CodePen context:
+##### CodePen context:
 
 Super basic landing page I completed for Responsive Web Design Certificate requirements on Free Code Camp.
 
@@ -93,7 +93,7 @@ Super basic landing page I completed for Responsive Web Design Certificate requi
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
 
-### CodePen context:
+##### CodePen context:
 
 Super basic form page I completed for Responsive Web Design Certificate requirements on Free Code Camp.
 
@@ -105,7 +105,7 @@ Super basic form page I completed for Responsive Web Design Certificate requirem
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
 
-### CodePen context:
+##### CodePen context:
 
 Super Basic Card Counting App to practice switch statements in JavaScript.
 
@@ -117,8 +117,14 @@ Super Basic Card Counting App to practice switch statements in JavaScript.
   on <a href="https://codepen.io">CodePen</a>.
 </iframe>
 
-### More Information:
+<br>
+<br>
+
 ---
+
+
+### More Information:
+
 
 \**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
 
