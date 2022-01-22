@@ -1,5 +1,10 @@
 # CodePens
 
+
+##### Contributors: Trevor Rapp
+
+---
+
 <br>
 
 [![View Project](https://user-images.githubusercontent.com/11747875/141690275-b6708604-1d7b-47b9-94ae-607837bf400c.png)](https://trrapp12.github.io/CodePens/)  
